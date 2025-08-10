@@ -1,0 +1,1 @@
+to start a new project paste this - npx create-expo-app@latest --template blank-typescript

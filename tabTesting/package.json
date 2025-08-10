@@ -1,5 +1,5 @@
 {
-  "name": "sqlitetesting",
+  "name": "tabtesting",
   "version": "1.0.0",
   "main": "index.ts",
   "scripts": {
@@ -10,10 +10,13 @@
   },
   "dependencies": {
     "expo": "~53.0.20",
+    "expo-router": "^5.1.4",
     "expo-status-bar": "~2.2.3",
+    "from": "^0.1.7",
     "react": "19.0.0",
     "react-native": "0.79.5",
-    "expo-sqlite": "~15.2.14"
+    "stack": "^0.1.0",
+    "@expo/vector-icons": "^14.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
